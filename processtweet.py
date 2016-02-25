@@ -6,10 +6,10 @@ from textblob import TextBlob
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="CZ6rIRwD5SqXsEn6bqzeUhhYk"
-csecret="02yypBc0q32y17yFlSl1hf6KfKwpNuEm8XJr6J1fN3utp2JOhP"
-atoken="4085761879-q7auMSt1CbgQfL9q9NI9fufFkfdMBNGZFMAyudc"
-asecret="YIHBattoKq1O6bVWS1QfwFoPtq4JgsapaO4M61FPYekNQ"
+ckey="blabla"
+csecret="blabla"
+atoken="blabla"
+asecret="blabla"
 
 class listener(StreamListener):
 
